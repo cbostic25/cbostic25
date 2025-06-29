@@ -10,7 +10,7 @@ I’m passionate about system hardening, automation, and building practical solu
 Linux (RHEL 8/9), Ansible, PowerShell, RMF, STIGs, VMware, WSUS, Bash/Python scripting, Active Directory
 
 💼 **Certifications:**  
-Security+, Scrum Alliance Certified Scrum Master (CSM), Facility Security Officer - Possessing, Certified in Cybersecurity (ISC)², CASP+, RHCSA, AIGP, and CISSP in progress
+COMPTIA Security+, Scrum Alliance Certified Scrum Master (CSM), Facility Security Officer - Possessing | Certified in Cybersecurity (ISC)², COMPTIA CASP+/Security X, Red Hat Certified System Administrator (RHCSA®) in progress | AI Governance Professional (AIGP), CISSP, and Red Hat Certified Engineer (RHCE) are planned
 
 <!--
 **cbostic25/cbostic25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
