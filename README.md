@@ -54,6 +54,9 @@ COMPTIA Security+, Scrum Alliance Certified Scrum Master (CSM), Facility Securit
      - Studying for certifications: CASP+ (SecurityX), RHCSA, CISSP, and AIGP
 
 
+🔗 **Connect with Me**  
+- [LinkedIn: Cleola Bostic](https://www.linkedin.com/in/cleola-bostic-b1901298)
+
 
 <!--
 **cbostic25/cbostic25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
