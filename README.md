@@ -48,6 +48,8 @@ COMPTIA Security+, Scrum Alliance Certified Scrum Master (CSM), Facility Securit
      - Practicing container security and exploring Prisma Cloud, Vault, and Terraform
 
      - Cloud Security: AWS, Azure, and GCP
+
+     - Red Hat Enterprise Linux 10 (RHEL10)
       
      - Artificial Intelligence: Governance and Security
 
