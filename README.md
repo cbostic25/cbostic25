@@ -1,4 +1,7 @@
-## 👋 Hello there, I'm Cleola
+<p align="left">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving Hand">&nbsp;
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7F56D9&center=false&vCenter=true&width=450&lines=Hello+there%2C+I'm+Cleola" alt="Typing animation" />
+</p>
 
 an Information Technology and Security professional with 20+ years of experience supporting private industry, classified environments, federal missions, and secure infrastructure.
 
