@@ -20,7 +20,7 @@ COMPTIA Security+, Scrum Alliance Certified Scrum Master (CSM), Facility Securit
 
 
 
-🛠️ **Tools & Technologies:**
+💻 **Tools & Technologies:**
       - Security Operations: Threat hunting, incident response, vulnerability analysis.
 
       - Networking: Firewall configuration, intrusion detection systems (IDS), security protocols.
