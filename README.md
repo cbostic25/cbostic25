@@ -59,6 +59,7 @@ Active:
 ![Certified Scrum Master](https://img.shields.io/badge/Scrum%20Master-CSM-brightgreen?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Facility Security Officer (FSO)](https://img.shields.io/badge/Facility%20Security%20Officer%20(FSO)-Possessing-003087?style=for-the-badge&logo=unitedstatesdepartmentofdefense&logoColor=white)
 ![Earned Value Management System (EVMS)](https://img.shields.io/badge/Earned%20Value%20Management%20System%20(EVMS)-6A1B9A?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![ISC2 Candidate](https://img.shields.io/badge/ISC2%20Candidate-004B50?style=for-the-badge&logo=isc2&logoColor=white)
 
 
 In-progress:
