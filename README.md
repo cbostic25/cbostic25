@@ -10,18 +10,19 @@ I’m passionate about system hardening, automation, and building practical solu
 
 ---
 
-📂 **Featured Skills:**  
+📂 **Featured Skills**  
 Linux (RHEL 8/9), Ansible, PowerShell, RMF, STIGs, VMware, WSUS, Bash/Python scripting, Active Directory
 
 ---
 
-💼 **Certifications:**   
+💼 **Certifications**   
+
+**Active:**
 
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-CE-red?style=for-the-badge&logo=comptia&logoColor=white)
 ![Certified Scrum Master](https://img.shields.io/badge/Scrum%20Master-CSM-brightgreen?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Facility Security Officer (FSO)](https://img.shields.io/badge/Facility%20Security%20Officer%20(FSO)-Possessing-003087?style=for-the-badge&logo=unitedstatesdepartmentofdefense&logoColor=white)
 
----
 
 **In-progress:**
 
@@ -29,7 +30,6 @@ Linux (RHEL 8/9), Ansible, PowerShell, RMF, STIGs, VMware, WSUS, Bash/Python scr
 ![CompTIA CASP+](https://img.shields.io/badge/CompTIA%20CASP%2B%20(Security%20X)-red?style=for-the-badge&logo=comptia&logoColor=white)
 ![Red Hat Certified System Administrator (RHCSA)](https://img.shields.io/badge/Red%20Hat%20Certified%20System%20Administrator%20(RHCSA)-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 
----
 
 **Planned:**
 
