@@ -52,6 +52,7 @@ Active:
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-CE-red?style=for-the-badge&logo=comptia&logoColor=white)
 ![Certified Scrum Master](https://img.shields.io/badge/Scrum%20Master-CSM-brightgreen?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Facility Security Officer (FSO)](https://img.shields.io/badge/Facility%20Security%20Officer%20(FSO)-Possessing-003087?style=for-the-badge&logo=unitedstatesdepartmentofdefense&logoColor=white)
+![Earned Value Management System (EVMS)](https://img.shields.io/badge/Earned%20Value%20Management%20System%20(EVMS)-6A1B9A?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 
 In-progress:
