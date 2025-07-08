@@ -8,17 +8,17 @@ I’m passionate about system hardening, automation, and building practical solu
 
 🚀 I’m actively transitioning into Cyber Systems Engineering and Architecture, with a focus on mission resilience, compliance, and secure design.
 
-
+---
 
 📂 **Featured Skills:**  
 Linux (RHEL 8/9), Ansible, PowerShell, RMF, STIGs, VMware, WSUS, Bash/Python scripting, Active Directory
 
-
+---
 
 💼 **Certifications:**  
 COMPTIA Security+, Scrum Alliance Certified Scrum Master (CSM), Facility Security Officer - Possessing | In-progress: Certified in Cybersecurity (ISC)², COMPTIA CASP+ (Security X), and Red Hat Certified System Administrator (RHCSA) | Planned: AI Governance Professional (AIGP), CISSP, and Red Hat Certified Engineer (RHCE).
 
-
+---
 
 💻 **Tools & Technologies:**
       - Security Operations: Threat hunting, incident response, vulnerability analysis.
@@ -37,7 +37,7 @@ COMPTIA Security+, Scrum Alliance Certified Scrum Master (CSM), Facility Securit
 
       - Technologies: Linux, Windows, VMware, VirtualBox
 
-       
+---       
 
 📚 **Learning:**
 
@@ -55,9 +55,11 @@ COMPTIA Security+, Scrum Alliance Certified Scrum Master (CSM), Facility Securit
 
      - Studying for certifications: CASP+ (SecurityX), RHCSA, CISSP, and AIGP
 
+---
 
 🤝🏾 **Connect with Me**  
-- [LinkedIn: Cleola Bostic](https://www.linkedin.com/in/cleola-bostic-b1901298)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/cleola-bostic-b1901298)
 
 
 <!--
