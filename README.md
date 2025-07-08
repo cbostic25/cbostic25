@@ -9,11 +9,41 @@ I’m passionate about system hardening, automation, and building practical solu
 🚀 I’m actively transitioning into Cyber Systems Engineering and Architecture, with a focus on mission resilience, compliance, and secure design.
 
 ---
+ 
+👩🏽‍💻 **Featured Skills**
 
-📂 **Featured Skills**  
-Linux (RHEL 8/9), Ansible, PowerShell, RMF, STIGs, VMware, WSUS, Bash/Python scripting, Active Directory
+![RHEL 7/8/9](https://img.shields.io/badge/RHEL%207%2F8%2F9-E00?style=for-the-badge&logo=redhat&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![WSUS](https://img.shields.io/badge/WSUS-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![RMF](https://img.shields.io/badge/RMF%20(NIST)-005A9C?style=for-the-badge&logo=nist&logoColor=white)
+![STIGs](https://img.shields.io/badge/STIGs-Compliance-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)
+![DISA ACAS](https://img.shields.io/badge/DISA%20ACAS-NetworkScan-blue?style=for-the-badge&logo=nessus&logoColor=white)
+![Tenable Nessus](https://img.shields.io/badge/Tenable%20Nessus-007C91?style=for-the-badge&logo=tenable&logoColor=white)
+![DISA HBSS](https://img.shields.io/badge/DISA%20HBSS-HostSecurity-brightgreen?style=for-the-badge&logo=mcafee&logoColor=white)
+![Fortify](https://img.shields.io/badge/Fortify-StaticScan-blue?style=for-the-badge&logo=fortinet&logoColor=white)
+![Trellix](https://img.shields.io/badge/Trellix-CyberDefense-5E5E5E?style=for-the-badge&logo=trello&logoColor=white)
+![Apache Subversion (SVN)](https://img.shields.io/badge/Apache%20SVN-809CC9?style=for-the-badge&logo=apache&logoColor=white)
+![TortoiseSVN](https://img.shields.io/badge/TortoiseSVN-VersionControl-4C9ED9?style=for-the-badge&logo=subversion&logoColor=white)
+![SEBoK](https://img.shields.io/badge/Systems%20Engineering%20Body%20of%20Knowledge%20(SEBoK)-orange?style=for-the-badge&logo=readthedocs&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![KMS](https://img.shields.io/badge/KMS%20Host-Configuration-grey?style=for-the-badge&logo=microsoft&logoColor=white)
+
 
 ---
+
 
 💼 **Certifications**   
 
