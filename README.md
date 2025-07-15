@@ -100,7 +100,7 @@ Planned:
 ---       
 
 
-📚 **Learning**
+📚 **Lifelong Learner Corner**
 
      - Automating infrastructure with Ansible and PowerShell
 
